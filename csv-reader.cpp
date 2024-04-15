@@ -6,7 +6,7 @@
 
 using namespace std;
 
-/* struct for storing information we read, example used is a player information for a game  */
+/* struct for storing information we read, example used is player information for a game  */
 
 struct PlayerRecord {
 public:
